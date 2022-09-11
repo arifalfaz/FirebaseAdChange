@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18757582911",
+    "project_id": "fir-adchange",
+    "storage_bucket": "fir-adchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18757582911:android:36d965f93e82f0727e788a",
+        "android_client_info": {
+          "package_name": "com.elecsiya.firebaseadchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18757582911-3luuuvect7klervd88km2g0v439hq9ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9gBFrgfNcvjiwia4PVkRlqbKl0CpcUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18757582911-3luuuvect7klervd88km2g0v439hq9ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
